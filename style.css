@@ -1,0 +1,14 @@
+body{
+    background-image: url(1.jpg);
+background-repeat: no-repeat;
+  text-align: center;
+  zoom: 1.6;
+  margin-top: 170px;
+  font-weight: bold;
+  }
+
+  
+  #btn{
+    font-weight: bold;
+    background-color: transparent;
+  }
